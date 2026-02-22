@@ -1,3 +1,14 @@
+
+
+<!-- TOP BANNER -->
+<p align="center">
+  <img 
+    src="https://blogger.googleusercontent.com/img/a/AVvXsEgLCogfyhE3Kq7GitoJlNLsttIsaGUkMrj6GPtGzpTtuc3OIlAOV0nvkNLjEaKjKt6H91b9x5DslimZi44mRDdAaF1Bz47ehB7AIqXPbE4U9uMoOp21VpsJ2kcRLy5mKXayQa8SSFvxPKqBGo1-XolUp34ijP9ARbnnmi9mXtWm5geq4vz0glyADAx941-C"
+    width="100%"
+    style="aspect-ratio:16/9; object-fit:cover; border-radius:12px;"
+  />
+</p>
+
 <h1 align="center">Merhaba 👋 Ben Süleyman Konak</h1>
 <h3 align="center">Yazılım Geliştirici</h3>
 
