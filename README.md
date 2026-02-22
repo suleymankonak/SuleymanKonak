@@ -1,12 +1,9 @@
 <h1 align="center">Merhaba 👋 Ben Süleyman Konak</h1>
 <h3 align="center">Yazılım Geliştirici</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suleymankonak&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
-🔭 Şu anda <b>React</b> üzerinde çalışıyorum
+📊 Şu anda <b>React</b>  ve <b>Spring </b> üzerinde çalışıyorum.🖥️
 </p>
 
 ---
@@ -64,10 +61,15 @@
 ---
 
 <h2 align="center">📊 GitHub İstatistiklerim</h2>
+
 <p align="center">
   <img src="https://github-states-generator.vercel.app/api/top-langs?username=suleymankonak&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleymankonak&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suleymankonak&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
