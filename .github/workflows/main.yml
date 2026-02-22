@@ -2,11 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -17,9 +17,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: suleymankonak
+          snake_animation_speed: 2
+          snake_color: '#00ff99'
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?algorithm=classic
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark&algorithm=classic
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
