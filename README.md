@@ -86,5 +86,9 @@
 </p>
 
 
-![snake gif](https://github.com/suleymankonak/SuleymanKonak/blob/output/github-contribution-grid-snake-dark.svg)
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suleymankonak/SuleymanKonak/output/github-contribution-grid-snake.gif" />
+</p>
 
