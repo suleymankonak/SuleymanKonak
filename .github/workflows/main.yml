@@ -8,20 +8,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2
 
-      - uses: Platane/snk@v3
+      - uses: Platane/snk@master
         with:
           github_user_name: suleymankonak
-          snake_animation_speed: 2
-          snake_color: '#00ff99'
-          outputs: |
-            dist/github-contribution-grid-snake.gif?algorithm=classic
-            dist/github-contribution-grid-snake-dark.gif?palette=github-dark&algorithm=classic
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
