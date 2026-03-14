@@ -1,5 +1,3 @@
-
-
 <!-- TOP BANNER -->
 <p align="center">
   <img 
@@ -9,11 +7,8 @@
   />
 </p>
 
- 
-
 <h1 align="center">Merhaba 👋 Ben Süleyman Konak</h1>
 <h3 align="center">Yazılım Geliştirici</h3>
-
 
 <p align="center">
 📊 Şu anda <b>React</b>  ve <b>Spring </b> üzerinde çalışıyorum.🖥️
@@ -88,14 +83,8 @@
   <img src="https://komarev.com/ghpvc/?username=suleymankonak&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/suleymankonak/SuleymanKonak/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-
-
-
